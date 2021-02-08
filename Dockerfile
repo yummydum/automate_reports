@@ -1,6 +1,6 @@
-FROM jupyter/minimal-notebook:f3da74a3da1e as eda
+FROM jupyter/minimal-notebook:016833b15ceb
 USER root
+RUN pip install jupyter_contrib_nbextensions papermill seaborn
 RUN jupyter contrib nbextension install --user
 RUN jupyter nbextension enable toc2/main --user
-RUN pip install papermill seaborn
-ENTRYPOINT ["python"]
+ENTRYPOINT ["python","run_notebook.py"]

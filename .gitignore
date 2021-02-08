@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 example_*.ipynb
+.cache/
+.ipython
+seaborn-data/
