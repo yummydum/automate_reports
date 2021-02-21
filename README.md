@@ -1,4 +1,4 @@
-# automate_reports
+# Report Generation Example
 
 Run the below command for the demo.
 The color parameter should be one from [G,E,F,H,D,I,J].
