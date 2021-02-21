@@ -3,3 +3,4 @@ example_*.ipynb
 .cache/
 .ipython
 seaborn-data/
+.config
