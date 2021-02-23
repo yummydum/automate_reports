@@ -1,6 +1,7 @@
 .ipynb_checkpoints
-example_*.ipynb
+*example_*.ipynb
 .cache/
 .ipython
 seaborn-data/
 .config
+report_generation
