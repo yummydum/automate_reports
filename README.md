@@ -1,4 +1,4 @@
-# Report Generation Example
+# Jupyter Notebook Ops
 
 
 ## Execute parametrized notebook via docker
@@ -16,3 +16,5 @@ COMMUTER_LOCAL_STORAGE_BASEDIRECTORY=./notebooks commuter
 open localhost:4000
 ```
 
+## References
+https://netflixtechblog.com/notebook-innovation-591ee3221233
