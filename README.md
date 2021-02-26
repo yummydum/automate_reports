@@ -17,5 +17,8 @@ COMMUTER_LOCAL_STORAGE_BASEDIRECTORY=./notebooks commuter
 ```
 Open browser and see `localhost:4000`.
 
+## Slides
+https://www.slideshare.net/AtsushiSumita/jupyter-notebook-ops
+
 ## References
 https://netflixtechblog.com/notebook-innovation-591ee3221233
