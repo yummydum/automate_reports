@@ -10,11 +10,12 @@ Where `<color>` should be one from [G,E,F,H,D,I,J].
 
 ## Run commuter in local
 
+Install by `yarn global add @nteract/commuter`, then
+
 ```shell
-yarn global add @nteract/commuter
 COMMUTER_LOCAL_STORAGE_BASEDIRECTORY=./notebooks commuter
-open localhost:4000
 ```
+Open browser and see `localhost:4000`.
 
 ## References
 https://netflixtechblog.com/notebook-innovation-591ee3221233

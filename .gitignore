@@ -5,3 +5,4 @@
 seaborn-data/
 .config
 report_generation.png
+.python-version
